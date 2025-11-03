@@ -1,4 +1,4 @@
-# 🧬 multimodal-oncology-fusion-hub
+# 🧬 Multimodal-oncology-fusion-hub
 
 
 > **A living map of multimodal learning in cancer — bridging pathology, radiology, genomics, and clinical data.**  
