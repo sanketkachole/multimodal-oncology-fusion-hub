@@ -49,7 +49,8 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
 |------|--------|--------------|-------------|---------|------|
-| 2020 | *Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis* | Brain, Kidney Cancer | histology image + genomic (mutations, CNV, RNA-Seq) | TCGA | [Code](https://github.com/mahmoodlab/PathomicFusion) |
+| 2020 | *Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis* | Brain, Kidney Cancer | histology image + genomic (mutations, CNV, RNA-Seq) | TCGA | [Code](https://github.com/mahmoodlab/PathomicFusion) | 
+| 2025 | Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder | pan-cancer | Generate Genomics from WSI | TCGA- (BLCA, BRCA, GBMLGG, LUAD, UCEC) | [Code](https://github.com/JJ-ZHOU-Code/RobustMultiModel) |
 | 2025 | *Graph-based Fusion of WSI Tiles and RNA Expression for Survival Prediction* | Pan-Cancer | WSI + RNA | TCGA | [Code](https://github.com/example) |
 | 2024 | *CLAM + RNAseq for MSI Prediction* | Colorectal | WSI + Mutation | CPTAC | – |
 | 2023 | *Pathomic Fusion: Integrating Histology and Genomics* | Multi-cancer | WSI + Omics | TCGA | [Code](https://github.com/mahmoodlab/PathomicFusion) |
