@@ -81,7 +81,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 |------|---------|--------------|--------------|------|
 | 2025 | *HONeYBEE: Harmonized Oncology Multimodal Foundation Model* | Clinical + Path + Omics | Multi-cancer | [Paper](https://www.nature.com/articles/s41746-025-01016-x) |
 | 2024 | *Deep Multimodal Survival Analysis on TCGA* | WSI + RNA + Clinical | Pan-Cancer | – |
-
+| 2019 | Deep Learning with Multimodal Representation for Pancancer Prognosis Prediction | Gene expression, MicroRNA expression, WSI Slide, Clinical | Pan-Cancer | [Code](https://github.com/gevaertlab/MultimodalPrognosis)
 ---
 
 ## 🧠 Foundation & Large Models
