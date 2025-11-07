@@ -40,8 +40,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 | Year | Title | Venue | Link |
 |------|--------|--------|------|
 | 2024 | *From Classical ML to Emerging Foundation Models: Multimodal Data Integration for Cancer Research* | Information Fusion | [Paper](https://arxiv.org/abs/2404.XXXX) |
-| 2023 | *Deep Multimodal Integration for Cancer Diagnosis and Prognosis* | IEEE Reviews | [Paper](https://doi.org/10.xxxx) |
-| 2022 | *A Survey on Multimodal Learning in Digital Pathology* | Front. Oncol. | [Paper](https://doi.org/10.xxxx) |
+
 
 ---
 
@@ -51,27 +50,28 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 |------|--------|--------------|-------------|---------|------|
 | 2020 | Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis | Brain, Kidney Cancer | histology image + genomic (mutations, CNV, RNA-Seq) | TCGA | [Code](https://github.com/mahmoodlab/PathomicFusion) | 
 | 2025 | Robust Multimodal Survival Prediction with Conditional Latent Differentiation Variational AutoEncoder | pan-cancer | Generate Genomics from WSI | TCGA- (BLCA, BRCA, GBMLGG, LUAD, UCEC) | [Code](https://github.com/JJ-ZHOU-Code/RobustMultiModel) |
-| 2025 | *Graph-based Fusion of WSI Tiles and RNA Expression for Survival Prediction* | Pan-Cancer | WSI + RNA | TCGA | [Code](https://github.com/example) |
-| 2024 | *CLAM + RNAseq for MSI Prediction* | Colorectal | WSI + Mutation | CPTAC | – |
-| 2023 | *Pathomic Fusion: Integrating Histology and Genomics* | Multi-cancer | WSI + Omics | TCGA | [Code](https://github.com/mahmoodlab/PathomicFusion) |
+
 
 ---
+
 
 ## 📄 Pathology + Clinical / Reports
 
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
 |------|--------|--------------|-------------|---------|------|
-| 2024 | *Slide2Report: Joint Modeling of WSIs and Pathology Reports* | Breast | WSI + Text | Institutional | – |
-| 2023 | *Multimodal Prognosis with Clinical Notes and WSIs* | Lung | WSI + EHR | TCGA-LUAD | – |
+| 2024 | *xxxxxxxxxxxxxxxxxxs* | Breast | WSI + Text | Institutional | – |
+
+
 
 ---
+
 
 ## 🩻 Radiology + Pathology
 
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
 |------|--------|--------------|-------------|---------|------|
-| 2025 | *Cross-modal Matching of MRI and Histology for Glioma* | Brain | MRI + WSI | BraTS + local | – |
-| 2023 | *CT-Path Fusion for Tumor Grade Prediction* | Liver | CT + WSI | Internal | – |
+| 2025 | *xxxxxxxxxxxxxxxxxxxx* | Brain | MRI + WSI | BraTS + local | – |
+
 
 ---
 
@@ -79,9 +79,8 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 | Year | Title | Modalities | Cancer Type | Code |
 |------|---------|--------------|--------------|------|
-| 2025 | *HONeYBEE: Harmonized Oncology Multimodal Foundation Model* | Clinical + Path + Omics | Multi-cancer | [Paper](https://www.nature.com/articles/s41746-025-01016-x) |
-| 2024 | *Deep Multimodal Survival Analysis on TCGA* | WSI + RNA + Clinical | Pan-Cancer | – |
 | 2019 | Deep Learning with Multimodal Representation for Pancancer Prognosis Prediction | Gene expression, MicroRNA expression, WSI Slide, Clinical | Pan-Cancer | [Code](https://github.com/gevaertlab/MultimodalPrognosis)
+
 ---
 
 ## 🧠 Foundation & Large Models
