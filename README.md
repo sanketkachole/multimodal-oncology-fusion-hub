@@ -79,7 +79,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 | Year | Title | Modalities | Cancer Type | Code |
 |------|---------|--------------|--------------|------|
-| 2019 | Deep Learning with Multimodal Representation for Pancancer Prognosis Prediction | Gene expression, MicroRNA expression, WSI Slide, Clinical | Pan-Cancer | [Code](https://github.com/gevaertlab/MultimodalPrognosis) ~
+| 2019 | Deep Learning with Multimodal Representation for Pancancer Prognosis Prediction | Gene expression, MicroRNA expression, WSI Slide, Clinical | Pan-Cancer | [Code](https://github.com/gevaertlab/MultimodalPrognosis) |
 | 2022 | Survival prediction of brain cancer with incomplete radiology, pathology, genomic, and demographic data | Pathology, Radiology, Demographics, Genomics | Brain Tumor | [Code](https://github.com/cuicathy/MMD SurvivalPrediction.git) |
 
 ---
