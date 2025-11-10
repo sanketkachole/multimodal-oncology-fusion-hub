@@ -44,7 +44,18 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 ---
 
-## 🧫 Pathology + Genomics
+
+## 🩻 Early Fusion
+
+| Year | Title | Cancer Type | Modalities | Dataset | Code |
+|------|--------|--------------|-------------|---------|------|
+| 2025 | *xxxxxxxxxxxxxxxxxxxx* | Brain | MRI + WSI | BraTS + local | – |
+
+
+---
+
+
+## 🧫  Intermediate Fusion
 
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
 |------|--------|--------------|-------------|---------|------|
@@ -54,19 +65,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 ---
 
-
-## 📄 Pathology + Clinical / Reports
-
-| Year | Title | Cancer Type | Modalities | Dataset | Code |
-|------|--------|--------------|-------------|---------|------|
-| 2024 | *xxxxxxxxxxxxxxxxxxs* | Breast | WSI + Text | Institutional | – |
-
-
-
----
-
-
-## 🩻 Radiology + Pathology
+## 🩻 Late Fusion
 
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
 |------|--------|--------------|-------------|---------|------|
@@ -88,9 +87,10 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 | Model | Year | Modalities | Description | Code |
 |--------|------|-------------|--------------|------|
-| PLIP | 2023 | Vision–Language | Pathology foundation model (Paige) | [Code](https://github.com/paige-ai/PLIP) |
-| MedCLIP | 2023 | Vision–Text | CLIP adapted to medical images | [Code](https://github.com/medclip) |
-| Onco-FM | 2025 | Multimodal | Cancer-specific foundation model (path+omics+clinical) | – |
+| PLIP | 2023 | Vision–Language | *Pathology foundation model (Paige)* | [Code](https://github.com/paige-ai/PLIP) |
+| MedCLIP | 2023 | Vision–Text | *CLIP adapted to medical images* | [Code](https://github.com/medclip) |
+| Onco-FM | 2025 | Multimodal | *Cancer-specific foundation model (path+omics+clinical)* | – |
+| MedGemma | 2025 | Multimodal | General Healthcare applications | [Code](https://github.com/Google-Health/medgemma) |
 
 ---
 
