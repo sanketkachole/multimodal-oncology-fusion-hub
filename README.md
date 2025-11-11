@@ -73,7 +73,14 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 
 ---
+## 🩻 Handling Missing Modalities
 
+| Year | Title | Cancer Type | Modalities | Dataset | Code |
+|------|--------|--------------|-------------|---------|------|
+| 2022 | Multi-modal learning with missing data for cancer diagnosis using histopathological and genomic data | Brain | Histopatholgy + Genomics | TCGA-GBM, TCGA-LGG | No public codes |
+
+
+---
 ## ⏱ Survival / Prognosis Modeling
 
 | Year | Title | Modalities | Cancer Type | Code |
