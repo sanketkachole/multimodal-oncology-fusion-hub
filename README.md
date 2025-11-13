@@ -78,7 +78,15 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
 |------|--------|--------------|-------------|---------|------|
 | 2022 | Multi-modal learning with missing data for cancer diagnosis using histopathological and genomic data | Brain | Histopatholgy + Genomics | TCGA-GBM, TCGA-LGG | No public codes |
-| 2025 | Distilled Prompt Learning for Incomplete Multimodal Survival Prediction | Bladder, Breast, colorectal, lung, Uterine | WSI, Reports |  [Code](https://github.com/Innse/DisPro) |
+| 2025 | Distilled Prompt Learning for Incomplete Multimodal Survival Prediction | Bladder, Breast, colorectal, lung, Uterine | WSI, Reports | TCGA-BLCA/BRCA/COADREAD/LUAD/UCEC | [Code](https://github.com/Innse/DisPro) |
+| 2025 | impuTMAE: Multi-modal Transformer with Masked Pre-training for Missing Modalities Imputation in Cancer Survival Prediction | Brain-glioma | genetic (DNAm, RNA-seq), imaging (MRI, WSI), clinical data   | TCGA-GBM/LGG, BraTS | [Code](https://github.com/maryjis/mtcp) |
+
+
+
+
+
+
+
 
 ---
 ## ⏱ Survival / Prognosis Modeling
