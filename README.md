@@ -39,7 +39,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 | Year | Title | Venue | Link |
 |------|--------|--------|------|
-| 2024 | *From Classical ML to Emerging Foundation Models: Multimodal Data Integration for Cancer Research* | Information Fusion | [Paper](https://arxiv.org/abs/2404.XXXX) |
+| 2025 | Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications | Medical Image Analysis | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001689) |
 
 
 ---
