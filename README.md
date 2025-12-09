@@ -17,7 +17,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 
 > 🎯 *Goal:* Make multimodal cancer research reproducible, connected, and industry-ready.
 
-----
+---
 
 ## 📚 Table of Contents
 
