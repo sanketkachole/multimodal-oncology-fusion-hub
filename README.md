@@ -48,7 +48,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 ## 🩻 Early Fusion
 
 | Year | Title | Cancer Type | Modalities | Dataset | Code |
-|------|--------|--------------|-------------|---------|------|
+|------|--------|--------------|-------------|---------|-----|
 | 2025 | *xxxxxxxxxxxxxxxxxxxx* | Brain | MRI + WSI | BraTS + local | – |
 
 
