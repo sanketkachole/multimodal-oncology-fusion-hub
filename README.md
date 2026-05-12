@@ -42,7 +42,7 @@ This repository tracks the **papers, datasets, codebases, and frameworks** drivi
 | 2025 | Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications | Medical Image Analysis | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525001689) |
 
 
----
+----
 
 
 ## 🩻 Early Fusion
